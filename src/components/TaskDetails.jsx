@@ -10,7 +10,6 @@ const TaskDetails = () => {
 
     const handleBackButtonClick = () => {
         history.push("/");
-        history.go();
     }
     return (
         <>
